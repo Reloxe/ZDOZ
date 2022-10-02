@@ -19,6 +19,8 @@ Simple but effective ddos attack
 * You can delete that file after the download is finished.
 * USE START.BAT BY RUN
 
+Tip > Attack the same server from multiple powerful systems for best effect.
+
 ## ENJOY :)
 !Made for educational purposes only. All responsibility belongs to the user!
 
