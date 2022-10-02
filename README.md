@@ -6,3 +6,7 @@ Simple but effective ddos attack
 
 
 ## Features
+
+* Setting Thread Count
+* Process core option
+* Effective attack
