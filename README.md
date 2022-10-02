@@ -21,3 +21,8 @@ Simple but effective ddos attack
 
 ## ENJOY :)
 !Made for educational purposes only. All responsibility belongs to the user!
+
+
+## Images
+
+![image](https://user-images.githubusercontent.com/97050615/193459725-fd7b9a31-c87a-49b0-93b6-71a806741700.png)
