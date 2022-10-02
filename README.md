@@ -10,6 +10,7 @@ Simple but effective ddos attack
 * Setting Thread Count
 * Process core option
 * Effective attack
+* More than 100 simultaneous packet attacks
 
 
 ## Setup
